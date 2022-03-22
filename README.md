@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samu158820
-- 👀 I’m interested in so many things, but most for the technology involving networks, AI, quantum physics, nanotech, neuroscience and VR/AR.
-- 🌱 I’m currently learning everything about machine learning with python, so I can provide new forms of code to my new team.
-- 💞️ I’m would collaborate with any project that requires my knowledge on QT applications and computer engineering with microcontrollers and sensors.
+- 👀 I’m interested in so many things, but mostly for networks, AI (and sub groups), quantum physics, nanotech, neuroscience and VR/AR.
+- 🌱 I’m currently learning everything about machine learning with python, so I can provide automated code and make people's life easier.
+- 💞️ I would collaborate with any project that requires my knowledge on QT applications and computer engineering with microcontrollers and sensors.
 - 📫 How to reach me? You can contact me whenever you want by mail - samu158820@gmail.com
 
 <!---
